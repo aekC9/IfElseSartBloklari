@@ -1,0 +1,14 @@
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\IfElseSartBloklari\bin\Debug\net9.0\IfElseSartBloklari.exe
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\IfElseSartBloklari\bin\Debug\net9.0\IfElseSartBloklari.deps.json
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\IfElseSartBloklari\bin\Debug\net9.0\IfElseSartBloklari.runtimeconfig.json
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\IfElseSartBloklari\bin\Debug\net9.0\IfElseSartBloklari.dll
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\IfElseSartBloklari\bin\Debug\net9.0\IfElseSartBloklari.pdb
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\IfElseSartBloklari\obj\Debug\net9.0\IfElseSartBloklari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\IfElseSartBloklari\obj\Debug\net9.0\IfElseSartBloklari.AssemblyInfoInputs.cache
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\IfElseSartBloklari\obj\Debug\net9.0\IfElseSartBloklari.AssemblyInfo.cs
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\IfElseSartBloklari\obj\Debug\net9.0\IfElseSartBloklari.csproj.CoreCompileInputs.cache
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\IfElseSartBloklari\obj\Debug\net9.0\IfElseSartBloklari.dll
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\IfElseSartBloklari\obj\Debug\net9.0\refint\IfElseSartBloklari.dll
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\IfElseSartBloklari\obj\Debug\net9.0\IfElseSartBloklari.pdb
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\IfElseSartBloklari\obj\Debug\net9.0\IfElseSartBloklari.genruntimeconfig.cache
+C:\Users\Loneliness\OneDrive\Belgeler\VSCode\IfElseSartBloklari\obj\Debug\net9.0\ref\IfElseSartBloklari.dll
